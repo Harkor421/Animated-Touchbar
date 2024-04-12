@@ -6,6 +6,6 @@ is crap and you can only when app is focused.
 
 #### This is how it looks:
 
-![Animated Touchbar](https://github.com/harkor421/Animated-Touchbar/raw/main/IMG_4998.png)
+![Animated Touchbar](https://github.com/harkor421/Animated-Touchbar/raw/main/IMG_4998.jpg)
 
 ### If you know a way to make it show even when app is out of focus, feel free to make a PR!
